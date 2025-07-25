@@ -1,6 +1,0 @@
-{
-  "name": "Resume Analyzer",
-  "description": "An application that uses AI to analyze resumes, extract key information, and provide feedback for improvement. Users can review past analyses in a historical viewer.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}
